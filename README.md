@@ -1,0 +1,2 @@
+# Pregnancy complication prediction using Machine Learning
+ This project is basedon n the field of machine learning and health technology. It's about detecting pregnancy complications, status and health of fetus using several parameters like blood sugar, blood pressure, heartrate etc etc. For this various models are trained and tested to find out the most accurate model according to a dataset and then the dataset is compared with a real time data to check further accuracy of the ML model.
